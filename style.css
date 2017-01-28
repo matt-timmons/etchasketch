@@ -1,0 +1,21 @@
+* {
+    font-family: helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container {
+    height:400px;
+    width:400px;
+    margin: 20px;
+    border: none;
+    padding: 10px;
+    background-color:gray;
+}
+.lilbox {
+    height:22px;
+    width:22px;
+    border:none;
+    background-color: white;
+    display:inline-block;
+}
