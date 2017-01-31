@@ -33,7 +33,7 @@ var draw = function () {
     $('.container').append('</table>');
     setBoxSize();
 
-    $('.lilbox').click(function(){
+    $('.lilbox').mouseover(function(){
         $(this).css('background-color','black');
     });
 };
