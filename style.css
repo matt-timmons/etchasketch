@@ -19,6 +19,14 @@
     background-color: white;
 }
 
+table {
+  border-spacing: 0; /* was 2px */
+}
+
+table td {
+  padding: 0; /* was 1px */
+}
+
 .control {
     background-color: lightgray;
     margin: 3px;
